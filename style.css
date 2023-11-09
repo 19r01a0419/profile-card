@@ -1,0 +1,24 @@
+body{
+    background-color: beige;
+}
+.container{
+    border:2px solid gainsboro;
+    position: absolute;
+    left:450px;
+    top:20px;
+    background-color:white;
+    width:300px;
+    height: 500px;
+    color:black;
+    box-shadow: 2px gray;
+    padding:20px;
+}
+.box{
+    
+    text-align: center;
+
+}
+.box img{
+    height:150px;
+    width:150px;
+}
